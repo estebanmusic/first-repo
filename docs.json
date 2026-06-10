@@ -6,6 +6,10 @@
     {
       "group": "Get started",
       "pages": ["introduction"]
+    },
+    {
+      "group": "Docs u need to know",
+      "pages": ["documentation/new"]
     }
   ]
 }

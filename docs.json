@@ -4,5 +4,5 @@
   },
   "name": "testlang",
   "languages": ["en", "es"],
-  "navigation": [{ "group": "Get started", "pages": ["introduction", "docs-json"] }]
+  "navigation": [{ "group": "Get started", "pages": ["introduction", "docs-json", "newnew"] }]
 }

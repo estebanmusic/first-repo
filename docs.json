@@ -1,0 +1,8 @@
+{
+  "theme": {
+    "preset": "default"
+  },
+  "name": "testlang",
+  "languages": ["en", "es"],
+  "navigation": [{ "group": "Get started", "pages": ["introduction"] }]
+}
